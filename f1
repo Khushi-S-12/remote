@@ -1,2 +1,5 @@
 #include <stdio.h>
-hello
+int main(){
+cout<<"hii";
+from 1st
+}
